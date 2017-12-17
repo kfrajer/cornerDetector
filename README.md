@@ -1,7 +1,7 @@
 ## cornerDetector
 
 <h1 align="center">
-    <img src="./cornerDetector/SampleResults/v2_allCorners_DisplayFalse.png.png" alt="logo" width="300">
+    <img src="./cornerDetector/SampleResults/version2/v2_allCorners_DisplayFalse.png.png" alt="logo" width="300">
   <br>
 </h1>
 
