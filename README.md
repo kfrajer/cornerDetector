@@ -21,6 +21,10 @@ There are two veersions within the code. Version 1 (activated using key '1') is 
 
 Load your binary image and then select the window size to operate, which defines a square region to apply the algorithm on. Notice the size of the window will affect the behavior of the algorithm in the edges of the sketch, as those regions in the sketch will be ignored. A window of any size larger than 5 should work for lines of thickness 1. For line of thickness 10, for instance, use a window size of 20 or 30.
 
+## Related:
+
+  [A Java port of the Line Segment Detector algorithm](https://github.com/anfractuosity/LSD) 
+
 ## Bugs and Issues
 
 Any suggestions or comments, please comment in the [issue section](https://github.com/kfrajer/cornerDetector/issues) of this GitHub.
